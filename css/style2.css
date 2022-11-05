@@ -11,7 +11,7 @@
       }
       
       .container.gallery-container {
-          background-image: url(/images/popo\ \(1\).jpg);
+          background-image: url(./images/popo\ \(1\).jpg);
           color: #35373a;
           min-height: 100vh;
           border-radius: 20px;
@@ -38,7 +38,7 @@
       .tz-gallery {
           padding: 40px;
           border: 2px solid black;
-          background-image: url(/images/white.jpg);
+          background-image: url(./images/white.jpg);
       }
       
       .tz-gallery .lightbox img {
@@ -72,7 +72,7 @@
       }
       
       .bod {
-          background-image: url(/images/pic.jpg)
+          background-image: url(./images/pic.jpg)
       }
       
       .he {
@@ -98,7 +98,7 @@
       }
       
       .bo {
-          background-image: url(/images/tcr1.jpg);
+          background-image: url(./images/tcr1.jpg);
           background-size: 50%;
       }
       
@@ -122,7 +122,7 @@
           font-family: 'Times New Roman', Times, serif;
           font-size: 20px;
           color: black;
-          background-image: url(/images/white.jpg);
+          background-image: url(./images/white.jpg);
           margin-top: 2%;
           text-align: center;
           padding: 2%;
@@ -130,7 +130,7 @@
       
       .container-fluid {
           color: white;
-          background-image: url(/images/pic.jpg);
+          background-image: url(./images/pic.jpg);
           text-align: center;
           padding: 2%;
           color: white;
